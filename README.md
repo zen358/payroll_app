@@ -74,3 +74,4 @@
 | メール通知 | action_mailer（標準） / letter_opener（開発確認用） |
 | ファイル添付 | Active Storage（標準） |
 | 外部API通信 | faraday / httparty（LINE WORKS通知など） |
+
